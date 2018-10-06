@@ -87,7 +87,7 @@ body {
   border-width: 2px;
   font-style: normal;
   letter-spacing: 1px;
-  margin: .4rem .3.8rem;
+  margin: .4rem .8rem;
   white-space: normal;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -111,7 +111,7 @@ body {
 .btn-md {
   font-weight: 500;
   letter-spacing: 1px;
-  margin: .4rem .3.8rem !important;
+  margin: .4rem .8rem !important;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -121,7 +121,7 @@ body {
 .btn-lg {
   font-weight: 500;
   letter-spacing: 1px;
-  margin: .4rem .3.8rem !important;
+  margin: .4rem .8rem !important;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -1484,6 +1484,10 @@ body {
   }
 }
 .cid-r5CXXkV2H7 .mbr-section-text {
+  text-align: left;
+  color: #000000;
+}
+.cid-r5CXXkV2H7 .mbr-crt-title {
   text-align: left;
   color: #000000;
 }
@@ -3492,7 +3496,7 @@ body {
 }
 .cid-r5D3L295gL {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r5D3L295gL .mbr-section-subtitle {
@@ -3574,6 +3578,9 @@ body {
 .cid-r5D5KRa8I4 .mbr-section-text {
   text-align: left;
   color: #000000;
+}
+.cid-r5D5KRa8I4 .mbr-crt-title {
+  text-align: left;
 }
 .cid-r5D3LicfPO {
   padding-top: 30px;
@@ -4230,4 +4237,10 @@ body {
 }
 .cid-r5DcaVULxX .social-list a:focus {
   text-decoration: none;
+}
+.mbr-section-btn a+a {
+    margin-left: 10.5em !important;
+}
+.mbr-section-btn a+a {
+    margin-left: 10.5em !important;
 }
